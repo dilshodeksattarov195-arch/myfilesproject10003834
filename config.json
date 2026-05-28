@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteender",
+        "uuid": 25200882,
+        "checksum": "uwkv6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
